@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ohmking/static/css/main.59194904.css",
-    "main.js": "/Ohmking/static/js/main.0b35c644.js",
-    "index.html": "/Ohmking/index.html",
-    "main.59194904.css.map": "/Ohmking/static/css/main.59194904.css.map",
-    "main.0b35c644.js.map": "/Ohmking/static/js/main.0b35c644.js.map"
+    "main.css": "/ohmking/static/css/main.59194904.css",
+    "main.js": "/ohmking/static/js/main.2871377a.js",
+    "index.html": "/ohmking/index.html",
+    "main.59194904.css.map": "/ohmking/static/css/main.59194904.css.map",
+    "main.2871377a.js.map": "/ohmking/static/js/main.2871377a.js.map"
   },
   "entrypoints": [
     "static/css/main.59194904.css",
-    "static/js/main.0b35c644.js"
+    "static/js/main.2871377a.js"
   ]
 }
